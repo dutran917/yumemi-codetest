@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yumemi-codetest/static/css/main.05338702.chunk.css",
+    "main.js": "/yumemi-codetest/static/js/main.fa4d6b41.chunk.js",
+    "main.js.map": "/yumemi-codetest/static/js/main.fa4d6b41.chunk.js.map",
+    "runtime-main.js": "/yumemi-codetest/static/js/runtime-main.56e997a5.js",
+    "runtime-main.js.map": "/yumemi-codetest/static/js/runtime-main.56e997a5.js.map",
+    "static/js/2.ad85bd43.chunk.js": "/yumemi-codetest/static/js/2.ad85bd43.chunk.js",
+    "static/js/2.ad85bd43.chunk.js.map": "/yumemi-codetest/static/js/2.ad85bd43.chunk.js.map",
+    "static/js/3.2edba46a.chunk.js": "/yumemi-codetest/static/js/3.2edba46a.chunk.js",
+    "static/js/3.2edba46a.chunk.js.map": "/yumemi-codetest/static/js/3.2edba46a.chunk.js.map",
+    "index.html": "/yumemi-codetest/index.html",
+    "static/css/main.05338702.chunk.css.map": "/yumemi-codetest/static/css/main.05338702.chunk.css.map",
+    "static/js/2.ad85bd43.chunk.js.LICENSE.txt": "/yumemi-codetest/static/js/2.ad85bd43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56e997a5.js",
+    "static/js/2.ad85bd43.chunk.js",
+    "static/css/main.05338702.chunk.css",
+    "static/js/main.fa4d6b41.chunk.js"
+  ]
+}
